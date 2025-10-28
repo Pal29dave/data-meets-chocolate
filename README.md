@@ -100,3 +100,5 @@ This dashboard revealed several interesting insights:
 *(You can upload your screenshot and rename it as `dashboard-preview.png`)*  
 ```markdown
 ![Chocolate Sales Dashboard Preview](dashboard-preview.png)
+
+<img width="1920" height="1200" alt="Screenshot 2025-10-28 140750" src="https://github.com/user-attachments/assets/5481cf97-b2e9-403c-a94e-24197dd61223" />
